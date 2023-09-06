@@ -140,7 +140,7 @@ BASED ON AIC, BIC AND MDL CRITERIA](https://gsp.tamu.edu/wp-content/uploads/site
 
 13. [Gene selection: a Bayesian variable selection approach]()
 
-14. []()
+14. [t]()
 
 15. []()
 

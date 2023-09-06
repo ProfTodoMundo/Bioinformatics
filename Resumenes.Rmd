@@ -1,0 +1,30 @@
+---
+title: "extractos"
+author: "Carlos Ernesto Martinez"
+date: "2023-08-12"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Multi-omics analysis to characterize molecular adaptation of Entamoeba histolytica during serum stress
+
+**Authors:**
+Shashi Shekhar Singh1,2 Mohammad Shahid Mansuri3 Sarah Naiyer1,4
+Devinder Kaur1,5 Mridula Agrahari1,6 Sandhya Srinivasan6 Gagan Deep Jhingan6 Alok Bhattacharya7 Sudha Bhattacharya1,7
+
+**Abstract:** 
+Entamoeba histolytica is responsible for dysentery and extraintestinal disease in humans. To establish successful infection, it must generate adaptive response against stress due to host defense mechanisms. Integration of transcriptomic and proteomic data revealed that only 30% genes were coordinately regulated at both transcriptional and translational levels. Some highly expressed transcripts did not change in protein abundance. Conversely, genes with no transcriptional change showed enhanced pro- tein abundance, indicating post-transcriptional regulation.
+
+
+Invasive intestinal infection may cause severe dysentery, while invasion to organs like the liver and brain can lead to abscesses which may be fatal if left untreated. Gene expression studies under stress conditions have used transcriptomics and proteomics analy- ses to identify important factors and pathways
+
+
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="true" page-range-format="expanded">
+  <info>
+    <title>Ejemplo de Estilo de Citas</title>
+    <id>https://example.com/styles/ejemplo-de-estilo-de-citas</id>
+    <author>
+      <name>Tu Nombre</name>
+    </author>
+    <link href="https://example.com/styles/ejemplo-de-estilo-de-citas" rel="self"/>
+    <link href="https://example.com"/>
+    <category citation-format="author-date"/>
+  </info>
+
+  <locale xml:lang="es">
+    <terms>
+      <term name="et-al">et al.</term>
+      <term name="and">y</term>
+    </terms>
+  </locale>
+
+  <!-- Definición de estilos de citas -->
+  <citation>
+    <sort>
+      <key variable="author"/>
+    </sort>
+    <layout delimiter=", ">
+      <text variable="author"/>
+      <group delimiter=" ">
+        <text term="et-al" text-case="capitalize-first"/>
+      </group>
+      <text variable="issued" prefix=" (" suffix=")."/>
+    </layout>
+  </citation>
+
+  <bibliography>
+    <sort>
+      <key variable="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <text variable="author"/>
+      <group delimiter=" ">
+        <text term="et-al" text-case="capitalize-first"/>
+      </group>
+      <text variable="issued" prefix=" (" suffix=")."/>
+      <text variable="title" font-style="italic"/>
+      <text variable="container-title" prefix=", "/>
+      <text variable="volume" prefix=", "/>
+      <text variable="page" prefix=", "/>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,134 @@
+---
+title: "Referencias"
+author: "Carlos E Martinez R"
+date: "2023-09-05"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Wavelet-based feature selection
+
+[Nonlinear probit gene classification using mutual information and wavelet-based feature selection](http://gsp.tamu.edu/wp-content/uploads/sites/71/2017/01/pap_JBS_wavelet.pdf) 
+
+## Articulos que lo citan
+
+
+1. [Multiclass cancer classification by using fuzzy support vector machine and binary decision tree with gene selection. Mao, Y., Zhou, X., Pi, D., Sun, Y., & Wong, S. T. Journal of Biomedicine and Biotechnology, 2005(2), 160.](https://downloads.hindawi.com/journals/specialissues/520210.pdf#page=105)
+
+2. [G. Ji, Z. Yang and W. You, "PLS-Based Gene Selection and Identification of Tumor-Specific Genes," in IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews), vol. 41, no. 6, pp. 830-841, Nov. 2011, doi: 10.1109/TSMCC.2010.2078503.](PENDIENTE)
+
+3. [Sparse discriminant analysis for breast cancer biomarker identification and classification](https://www.sciencedirect.com/science/article/pii/S1002007109002317?ref=pdf_download&fr=RR-2&rr=80225ebe5bbc3473)
+
+4. [Wavelet-Based Feature Extraction for Microarray Data Classification]()
+
+5. [A neural network-based biomarker association information extraction approach for cancer classification]()
+
+6. [Gene regulatory networks inference using a multi-GPU exhaustive search algorithm]()
+
+7. [Parameters selection in gene selection using Gaussian kernel support vector machines by genetic algorithm]()
+
+8. [Feature selection using Haar wavelet power spectrum]()
+
+9. [Using Wavelet Analysis To Assist in Identification of Significant Events in Molecular Dynamics Simulations](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.5b00727)
+
+10. [An Integrated Inverse Space Sparse Representation Framework for Tumor Classification](https://arxiv.org/pdf/1803.03562.pdf)
+
+11. [Detect Key Gene Information in Classification of Microarray Data](https://link.springer.com/content/pdf/10.1155/2008/612397.pdf)
+
+12. [Prominent feature selection of microarray data]()
+
+13. [Wavelet feature selection for microarray data](https://ieeexplore.ieee.org/abstract/document/4400920)
+
+14. [Gene Selection and Classification Using Non-linear Kernel Support Vector Machines Based on Gene Expression Data](https://ieeexplore.ieee.org/abstract/document/4382018)
+
+15. [Effective Gene Selection Method With Small Sample Sets Using Gradient-Based and Point Injection Techniques](https://ieeexplore.ieee.org/abstract/document/4288072)
+
+16. [Effective Gene Selection Method Using Bayesian Discriminant Based Criterion and Genetic Algorithms](http://www.ee.cityu.edu.hk/~twschow/pubs/papers/57.pdf)
+
+17. [A gene selection method for classifying cancer samples using 1D discrete wavelet transform](https://www.inderscienceonline.com/doi/pdf/10.1504/IJCBDD.2009.030769)
+
+18. [A Hybrid Gene Selection Technique Using Improved Mutual Information and Fisher Score for Cancer Classification Using Microarrays](https://publications.waset.org/10004601/a-hybrid-gene-selection-technique-using-improved-mutual-information-and-fisher-score-for-cancer-classification-using-microarrays)
+
+19. [Wavelet Variance and Entropy of DNA Sequences ](http://www.ijcce.org/papers/20-S020.pdf)
+
+20. [Wavelet-based gene selection method for survival prediction in diffuse large B-cell lymphomas patients](https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2015.071556)
+
+21. [A Clustering and Selection Method using Wavelet Power Spectrum ](https://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_6.pdf)
+
+
+
+
+## Articulos relacionados
+
+1. [A Bayesian approach to nonlinear probit gene selection and classification](https://gsp.tamu.edu/wp-content/uploads/sites/71/2017/01/pap_Franklin_classification.pdf)
+
+2. [Multi-class cancer classification using multinomial probit regression with Bayesian gene selection](https://gsp.tamu.edu/wp-content/uploads/sites/71/2017/01/pap_IEE_multi-class.pdf)
+
+3. [Bayesian variable selection for disease classification using gene expression data](https://academic.oup.com/bioinformatics/article/26/2/215/209617)
+
+4. [Bayesian binary kernel probit model for microarray based cancer classification and gene selection](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=16016ea614e047ea95a74792faf86b4914190cf6)
+
+5. [Gene Prediction Using Multinomial Probit Regression with Bayesian Gene Selection](https://link.springer.com/content/pdf/10.1155/S1110865704309157.pdf)
+
+6. [Cancer classification using gene expression data](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=17701c791e12f4ce8b0f01c95c4d442d5fc08dc4)
+
+7. [Regulation probability method for gene selection](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=db503940da4da431276b2450e6e7b12d560d5ddc)
+
+8. [Gene expression classification using optimal feature/classifier ensemble with negative correlation](http://sclab.yonsei.ac.kr/publications/Papers/IC/IJCNN2002.pdf)
+
+9. [The Goodman–Kruskal Coefficient and Its
+Applications in Genetic Diagnosis of Cancer](https://d1wqtxts1xzle7.cloudfront.net/51566785/tbme.2004.82726720170131-3967-bngm8i-libre.pdf?1485859210=&response-content-disposition=inline%3B+filename%3DThe_Goodman_and_8211_Kruskal_Coefficient.pdf&Expires=1693959403&Signature=EbfeBUR0z0S3O~pY5DThLCLRlhyIAKgSq9GMW5GhUNQZxEZqSgqsGWiaT2c5inhOtOo55jOyiak2SC-5BFQ3WzE2QFjBbSyhTvaI5-W8YiZXOWjRZ4I56k7nwRC-Bk4HOZW9gzlHl9FbMR8Av3d4TanW3CRMwNhsqaOnzVw9ZvdBPrNIcHQcVFOAw80H2wYwIwMpSeqmAGhHpgEF2qVfsFKQyjw95p4PSZKWg~P~XSWNSRPt34GHIqIjrqDof5JpMXXLHpyjx2DGqqGbGZKvUMizIgwDhYJdW1VKN7dPRVsNc0BkGy7aayv8ItjVfA9skOaDcFoVeZ0J702bP~MTbw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+10. [Bayesian Network Classifiers for Gene Expression Analysis](https://link.springer.com/chapter/10.1007/0-306-47815-3_8)
+
+11. [A model for gene selection and classifi cation of gene expression data](https://d1wqtxts1xzle7.cloudfront.net/8067466/A_model_for_gene_selection_and_classification_of_gene_expression_data-libre.pdf?1390854069=&response-content-disposition=inline%3B+filename%3DA_model_for_gene_selection_and_classifi.pdf&Expires=1693959414&Signature=d3ZuiMonPcsXPlUBmx5drDKzJJ7B51X1xgNVNnR~9Js8R6Dk9dNuXDmBKRocglh5lUsyED0gKkkpEBS4-m1G0T35iEeBSlQhYcxxpkC1idPXkEeM2S2Qxyp7t6NEUSCKN7mlms9qB-bj7vXOrUPIp-f-559wV2rLiDdY6OuL9WD5f6G6ZhwxfTeEX0h2mxredMaZjPLJSFdEI8GZT6oivfJQ6VANsfPprEJMLNDlFLrGi92S3dFmruQ6Exn4uH-rzi8dfToK6hqKUNTcoIHzh1R~yswmG3K8ObDinaK90umlbL77ICuz6hJ7TOdv~wj4FMdANkGnNeomevGags9Bwg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+12. [GENE SELECTION USING LOGISTIC REGRESSIONS
+BASED ON AIC, BIC AND MDL CRITERIA](https://gsp.tamu.edu/wp-content/uploads/sites/71/2017/01/pap_NMNC_selection.pdf)
+
+13. [A Gene Selection Algorithm using Bayesian Classification Approach ](https://repository.usp.ac.fj/4816/1/A_gene_selection_algorithm_using_bayesian_classification_approach.pdf)
+
+14. [Application of Probabilistic Neural Networks to the Class Prediction of Leukemia and Embryonal Tumor of Central Nervous System](https://www.infona.pl/resource/bwmeta1.element.springer-99201fd3-3fda-358d-9641-b3ff3e367412)
+
+15. [Hidden Markov Models for Cancer Classification using Gene Expression Profiles](https://www.researchgate.net/profile/Thanh-Nguyen-267/publication/276100753_Hidden_Markov_models_for_cancer_classification_using_gene_expression_profiles/links/5d289d24a6fdcc2462da0811/Hidden-Markov-models-for-cancer-classification-using-gene-expression-profiles.pdf)
+
+16. [Bayesian Learning with Local Support Vector Machines for Cancer Classification with Gene Expression Data](https://inria.hal.science/inria-00177278/document)
+
+17. [Bayesian Networks Classifiers for Gene-Expression Data](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6e3a8e51e096c28c947842f8a7eea8d7cd3ab3fd)
+
+18. [Bayesian Classification of Tumours by Using Gene Expression Data](https://watermark.silverchair.com/jrsssb_67_2_219.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2kwggNlBgkqhkiG9w0BBwagggNWMIIDUgIBADCCA0sGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMz0orVdabfvcfL8XlAgEQgIIDHNfLfBucG45GjY5j5vOz9GSrvTO7x3gPoDx6Yv_MlqS3cZoZujH6ATU4elS7nOu88QincIEPEl1PNHOKC9LkVBZUeIPsskzl1bdy5G-06GZAFzhvdL4cAk8TVzP4UxNNN8AJqSjL_ZCboixdZhwv-g6i7MUZRrYfOV1Zk8uBxN0HJ8pOKJpwjFi0GLulcgF1Y-us_H6sYTQ_1uPirTSV1srSexwS9U1T2J-gZBLCfehQUhwdiUgCrYmIifOeMoLnVaYw2mgHNzusfKmQ68atpmdjk77vR204RMDF74dgNMm0DVWBiWQgQ8-rmw-Z9uY7YQVmGIX6FzEfsSSfw6dSW4VWNvVy5O0Z6UEitYphfHgolrNlJPXdZ204OlNOH8s3TZcGBfWqq8mJBe5RFIbSVzEAp1cVd0a7rtZWX3DnpzqNX8SOpOg56ZRhjPXc91-6Z7BzHngUaCWir4xDGoSmdHSIblMAc9SZtrDY-QOQDuAUpYU5eLvv6SHjvSuX1t2QTkWpd0CIpmMytUqI69u8ESHCvVZ9jwiguWAYlaaiE9dlfZgjhiIsDglCZ6PJVSEJb3TKduzZgtCMhUpA0RHqfBR2mWSPm0SQyRZvXAs5XPt22Bs87kBFO77-q5E9bc-OcACRmtzMDzhrDo5HIc8sSZhcsFJ1lJ-kus_-0SPBVg83Z5QZ9WFgbbiu6mOy8LpWR871TLYcCOEmTfnfznqi8MA3OUVMYSsx20WHaGKfEqHbSFX8EoAnNTflggZKgmvzufiw9RKrE575NCDVcXk4JF-v1EP1XEXayzFYvVkhrnVsZnYjLMoDwBPL6MbN6eSBy754gWqJpif5ykHTeAnHtzgQIcZGoyQtxJ7CyNrud_Nb6BzHYQfmGAVLre46yoN9_aDLThV5aDDTPUxgjsWIYOAGInJM5VOjJBMHAa7bk6RSiWrSgTo7kgt4tSImWUcVu3M9XAb7aEyCmq0kjb3CAns7-_6zdFOPFbKYaXcJ6D9-o2pr774MTGoWaUcAUFHry7N5YTOpqPBjnHh4GglKXtV19Chwn87Lz2Gdu0c)
+
+19. [Bayesian Neural Networks for Selection of Drug Sensitive Genes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660200/pdf/nihms-1501136.pdf)
+
+20. [BIOLOGICAL DATA MINING USING BAYESIAN NEURAL NETWORKS: A CASE STUDY](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=17f274fafb1423fe245758aa9b373767cb751d7f)
+
+21. [A Bayesian Network Classification Methodology for Gene Expression Data](https://www.bx.psu.edu/old/courses/bx-fall04/bayes1.pdf)
+
+22. []()
+
+23. []()
+
+24. []()
+
+25. []()
+
+
+
+
+
+
+
+
+
+
+
+
+
